@@ -53,11 +53,9 @@ A **BACKEND/WEB/MOBILE** ***Enthusiast*** 🚀.
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=L0MAX&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Samuel's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LOMAX&count_private=true&theme=radical" alt="Samuel-Script" />
-<a href="https://lon9.github.io">
+<img src="https://github-readme-stats.vercel.app/api?username=L0MAX&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="LOMAX's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LOMAX&count_private=true&theme=radical" alt="LOMAX-Script" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOMAX&theme=dark&hide=html" />
-</a>
 
 <!--
 **L0MAX/L0MAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
