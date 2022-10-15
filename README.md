@@ -55,7 +55,7 @@ A **BACKEND/WEB/MOBILE** ***Enthusiast*** 🚀.
 
 <img src="https://github-readme-stats.vercel.app/api?username=L0MAX&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="LOMAX's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LOMAX&count_private=true&theme=radical" alt="LOMAX-Script" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=saber13812002&count_private=true&show_icons=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saber13812002&layout=compact"/>
   
 <!--
 **L0MAX/L0MAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
