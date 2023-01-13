@@ -52,8 +52,6 @@ A **BACKEND/WEB/MOBILE** ***Enthusiast*** 🚀.
 
 <br/>
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=L0MAX&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="LOMAX's GitHub Stats">
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LOMAX&count_private=true&theme=radical" alt="LOMAX-Script" /> -->
   
 <!--
