@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Donatus Ankah</h1>
+<h1 align="center">Hi 👋, I'm Donatus Edzebubu Ankah</h1>
 <h3 align="center">Full-Stack Software Engineer | Web & Mobile Systems</h3>
 
 <p align="center">
@@ -13,9 +13,7 @@
 
 ---
 
-## 👨🏽‍💻 About Me
-
-I’m a **Full-Stack Software Engineer** with experience building **scalable web and mobile applications** from idea to production.
+**Full-Stack Software Engineer** with experience building **scalable web and mobile applications** from idea to production.
 
 My work spans **backend systems, APIs, cloud infrastructure, and mobile apps**, with a strong focus on **clean architecture, performance, and real-world usability**.
 
